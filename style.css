@@ -1,0 +1,55 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+body {
+  background: #F4EEE8;
+  font-family: calibri;
+  font-size: 15px;
+}
+h1 {
+  color: #4088bc;
+  text-align: left;
+  border-top: 5px solid #0974b3;
+  margin: 10px;
+}
+h3{
+  text-align: left;
+  margin-left: 15px;
+}
+p {
+    text-align: left;
+  }
+.page {
+    overflow: hidden;
+    min-width: 260px;
+    margin: 50px 15%;
+    padding: 30px;
+    text-align: center;
+    border: 5px solid white;
+  }
+
+img {
+    float: left;
+    width: 150px;
+    height: 200px;
+    object-fit: cover;
+    margin: 20px;
+  }
+.isaac {
+  overflow: hidden;
+  margin:15px;
+  background: white;
+}
+.albert {
+  overflow: hidden;
+  margin:15px;
+  background: white;
+}
+.tesla {
+  overflow: hidden;
+  margin:15px;
+  background: white;
+}
